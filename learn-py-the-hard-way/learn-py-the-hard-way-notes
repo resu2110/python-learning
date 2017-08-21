@@ -1,0 +1,97 @@
+
+
+===========================
+Ex 2: On Process
+===========================
+
+	#challenge:
+		+ Do you have prblm working on project for long periods of time?
+			Definitely Yes, im tired as fvck if its not going anywhere
+
+		+ Do U tend to make defctive code with no idea why?
+			Yes, that's bad though
+
+		+ Do U chase programming languages but never actually implement anything?
+			Yes, that sound bad too.
+
+		+ Do you never remember APIs?
+			Yes I do, those stuff was long as the dick of Congo man.
+
+		+ Do U fell inferior or like a fraud who will get caught?
+			Yes, I have never done a bad-ass tools by myself
+
+		+ Do you worry if you're a "real programmer"?
+			Confusing questing, may be, may be not
+
+		+ Do you have no idea how to take an idea and pop it out of ur head 	into code??
+			Sometimes :D
+
+		+ Do U have prblm getting started?
+			No, absolutely not. Problems raise when I wanna go pro.
+
+		+ Do U work in a chaotic environment?
+			May be not
+
+		+ Do U get past the first implementation of ur project and have no 		idea how to take it further?
+			I have ideas in some kind but how to implement those ideas is challenging
+
+		+ Do U keep piling code on top of code until there's just a huge mess
+			No, mostly I don't do that
+
+
+	>>> try to RECORDING your screen while learning, 
+		this help you identify your actions, analyzing them and fix the bads.
+
+
+
+
+===========================
+Ex 2: On Creativity
+===========================
+	
+	+ At the beginning of each day, write three combined words (randomly)
+
+	+ spend 10 min to writing an essay about these words (writing, drawing..)
+	
+
+
+===========================
+Ex 3: On Quality
+===========================
+
+
+I think those 3 excercises are the main philosophies that Zed wanna give back to us, not only in programming but also in our entire  life.
+
+
+
+===========================
+Path II: quick hacks
+===========================
+
+	+ Process of "create then critique"
+	+ make a list, do it, then check it
+
+
+	We have each 45-min session to survive, before each sessionm we must:
+		1. Get computer ready
+		2. Read the description of the task - this is a research phase and we should get as much as possible information
+		3. take your research result aboe then turn it into TODO list. 
+
+
+
+
+===========================
+Ex 4: Dealing with command line args
+===========================		
+
+	#requirements:
+		1. write 2 python script that test out processing cmd args using 2 methods:
+			+ sys.argv
+			+ argparse
+
+		2. these scripts are able to handle:
+			+ getting help with -help or -h
+			+ at least three args that are "options" 
+			+ additional "positional" args, which are list of files at the end of all the -style args and can handle Terminal wildcards like */.txt
+
+		

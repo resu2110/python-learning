@@ -1,0 +1,11 @@
+
+1. Th basics
+	
+	+ REPL = read - eval - print - loop: an interactive programming tools that 	let us experiment with snippets of code ...
+
+	+ in Python, there's no real notions of source code being compiled to an 'executable' 
+	#research:	+ intepreter
+				+ dynamic link & static link
+				+ dynamically assigned
+
+
